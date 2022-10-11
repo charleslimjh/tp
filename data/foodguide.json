@@ -1,0 +1,39 @@
+{
+  "eateries" : [ {
+    "name" : "Arise and Shine",
+    "phone" : "",
+    "address" : "Engineering Block E4",
+    "tagged" : [ ],
+    "cuisine" : "snacks"
+  }, {
+    "name" : "Frontier",
+    "phone" : "",
+    "address" : "Faculty of Science",
+    "tagged" : [ "foodCourt" ],
+    "cuisine" : "variety"
+  }, {
+    "name" : "The Deck",
+    "phone" : "",
+    "address" : "Faculty of Art & Social Sciences",
+    "tagged" : [ "foodCourt" ],
+    "cuisine" : "variety"
+  }, {
+    "name" : "Pasta Express",
+    "phone" : "",
+    "address" : "The Deck, Faculty of Art & Social Sciences",
+    "tagged" : [ "TheDeck" ],
+    "cuisine" : "western"
+  }, {
+    "name" : "KOI",
+    "phone" : "69933323",
+    "address" : "Central Square",
+    "tagged" : [ ],
+    "cuisine" : "bubbleTea"
+  }, {
+    "name" : "Pasta Express Frontier",
+    "phone" : "",
+    "address" : "Frontier",
+    "tagged" : [ "frontier" ],
+    "cuisine" : "Western"
+  } ]
+}
